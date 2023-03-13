@@ -1,5 +1,7 @@
 # awesome-weekly
-收录有趣的技术周刊
+收录有趣的技术周刊/程序员周刊
+
+X: 已停止更新 
 
 ### 目前正常更新的周刊
 - [阮一峰: 科技爱好者周刊](https://github.com/ruanyf/weekly)
@@ -13,6 +15,9 @@
 - [segmentfault前端周刊](https://segmentfault.com/t/segmentfault-%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A/blogs)
 - [美团技术博客](https://tech.meituan.com/)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+- X[软件测试周刊](https://github.com/bxiaopeng/SoftwareTestingWeekly)
+- [独立产品灵感周刊](https://www.decohack.com/)
+- [野生架构师周刊](https://tech.codelc.com/)
 
 ### 推荐
 - [独立中文技术博客](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
